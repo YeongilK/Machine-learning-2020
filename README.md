@@ -1,6 +1,6 @@
-# Python Flask Web Lecture
+# Machine Learning Lecture
 
-#### Python Flask 으로 수행하는 Web 강좌
+#### Python 으로 수행하는 Machine Learning 강좌
 
 ## 머신러닝 파이썬 활용 빅데이터 분석 개발자 양성 과정
 
