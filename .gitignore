@@ -17,6 +17,7 @@ input/
 UCI_HAR_Dataset/
 IMDB/
 model/
+NaverMovie/
 
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
